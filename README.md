@@ -11,4 +11,4 @@ This project predicts a student's final academic score based on various lifestyl
 
 ### Run Streamlit App
 ```bash
-streamlit run app.py
+[streamlit run app.py]-> (https://finalstudentscorebypria.streamlit.app/)
